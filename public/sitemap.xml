@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/posts/friday-dec-20/</loc>
+    <lastmod>2024-12-22T00:47:51-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-22T00:47:51-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-12-22T00:47:51-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/thursday-dec-19/</loc>
+    <lastmod>2024-12-22T00:42:14-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/wednesday-dec-18/</loc>
+    <lastmod>2024-12-22T00:35:42-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/tuesday-dec-17/</loc>
+    <lastmod>2024-12-22T00:28:53-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/monday-dec-16/</loc>
+    <lastmod>2024-12-22T00:07:56-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/sunday-dec-15/</loc>
+    <lastmod>2024-12-22T00:07:46-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

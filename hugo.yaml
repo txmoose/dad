@@ -25,6 +25,9 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: false
+  analytics:
+    google:
+      SiteVerificationTag: 'G-HM6KM17QER'
 
   ShowReadingTime: true
   ShowShareButtons: true

@@ -66,6 +66,7 @@ params:
     Title: "Mike's Journey"
     Content: |
       This is a stream of consciousness attempt to write down what has happened with dad. I don't know if this is worth the effort, but it might help me process, so I'm trying.
+      ![family](/family.jpg "The Family")
 
   socialIcons:
     - name: bluesky
